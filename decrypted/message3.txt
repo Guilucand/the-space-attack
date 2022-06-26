@@ -1,0 +1,1 @@
+the solution is to use an isl to communicate telemetry to the main station. The next key is 10
